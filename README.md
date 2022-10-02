@@ -21,7 +21,7 @@
 
   <br/>
   
-  <a href="https://github.com/Siddhesh393/github-readme-stats"><img alt="Siddhesh Salve’s Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhesh393&langs_count=5&theme=tokyonight"/></a>
+  <a href="https://github.com/Siddhesh393/github-readme-stats"><img alt="Siddhesh Salve’s Top Languages" src="https://github-readme-stats.vercel.app/api?username=siddhesh393_icons=true&theme=dark"/></a>
   <br/>
 
 
