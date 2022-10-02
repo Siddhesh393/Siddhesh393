@@ -21,9 +21,8 @@
 
   <br/>
   
-  <a href="[https://github.com/Siddhesh393/github-readme-stats](https://github-readme-stats.vercel.app/api?username=Siddhesh393&show_icons=true&theme=dracula))"><img alt="Siddhesh Salve’s Top Languages" src="https://github-readme-stats.vercel.app/api?username=Siddhesh393&show_icons=true&theme=dracula)"/></a>
+  <a href="[https://github.com/Siddhesh393/github-readme-stats](https://github-readme-stats.vercel.app/api?username=Siddhesh393&show_icons=true&theme=dracula))(https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)"><img alt="Siddhesh Salve’s Top Languages" src="https://github-readme-stats.vercel.app/api?username=Siddhesh393&show_icons=true&theme=dracula)"/></a>
   <br/>
-
 
 <br/>
 <br/>
