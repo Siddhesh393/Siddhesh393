@@ -2,13 +2,13 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Siddhesh</h1>
-<h3 align="center">I'm an Aspiring Android Developer from India.</h3>
+<h3 align="center">I'm an Aspiring Data Science Engineer from India.</h3>
 
 
 ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently learning **Andriod Development**.
+- 🌱 I’m currently learning **Data Science and Maching Learning**.
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
