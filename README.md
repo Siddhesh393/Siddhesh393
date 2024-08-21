@@ -1,5 +1,6 @@
-
-<img src="https://github.com/Siddhesh393/assets/raw/ae768139a7d225bfa1b4d7af59895d170cc5c255/demp.gif" alt="Demo GIF" width="500"/>
+<p align="center">
+    <img src="https://github.com/Siddhesh393/assets/raw/ae768139a7d225bfa1b4d7af59895d170cc5c255/demp.gif" alt="Demo GIF" width="600"/>
+</p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Siddhesh</h1>
 <h3 align="center">I'm an Aspiring Data Science Engineer from India.</h3>
