@@ -1,4 +1,5 @@
-[![MasterHead](https://j.gifs.com/vO0xEx.gif)](https://rishavchanda.io)
+![Demo of the Project](assets/Data Analytics - Animation.gif)
+
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Siddhesh</h1>
