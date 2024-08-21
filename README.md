@@ -1,4 +1,4 @@
-![Demo of the Project](assets/demp.gif)
+![Demo of the Project]([assets/demp.gif](https://github.com/Siddhesh393/assets/blob/main/demp.gif))
 
 
 
