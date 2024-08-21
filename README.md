@@ -1,4 +1,4 @@
-![Demo of the Project](https://github.com/Siddhesh393/assets/Data Analytics - Animation.gif)
+![Demo of the Project](assets/demp.gif)
 
 
 
